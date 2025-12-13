@@ -21,14 +21,14 @@ Java Backend Developer | Spring Boot | DevOps
 - REST APIs  
 - Redis  
 - MySQL  
-- Gradle 
+- Maven /Gradle 
 - Git & GitHub  
 
 ---
 
 ## 📂 Projects in this Repository
 
-### 📚 Digital Library Application
+### 📚 Digital Library Application / Others 
 A backend application for managing books, authors, and users.
 
 **Features:**
