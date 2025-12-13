@@ -21,7 +21,7 @@ Java Backend Developer | Spring Boot | DevOps
 - REST APIs  
 - Redis  
 - MySQL  
-- Gradle / Maven  
+- Gradle 
 - Git & GitHub  
 
 ---
@@ -44,4 +44,4 @@ A backend application for managing books, authors, and users.
 - Redis
 - MySQL
 
-📁 Path:  
+📁 Path:  It's on the local
